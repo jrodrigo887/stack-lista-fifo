@@ -1,0 +1,32 @@
+{
+  "name": "estrutura_de_dados",
+  "version": "1.0.0",
+  "description": "Estrutura de dados.",
+  "main": "dist/stack.js",
+  "scripts": {
+    "build": "rollup --config",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "pilhas/stack.js",
+    "dist/*.js"
+  ],
+  "keywords": [
+    "main",
+    "rollup",
+    "build"
+  ],
+  "author": "Rodrigo",
+  "license": "MIT",
+  "dependencies": {
+    "rollup": "^2.38.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrodrigo887/stack-lista-fifo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jrodrigo887/stack-lista-fifo.git"
+  },
+  "homepage": "https://github.com/jrodrigo887/stack-lista-fifo#readme"
+}
